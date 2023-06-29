@@ -3,6 +3,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { block } from "million/react"; 
+// import { block } from "million/react-server"; <- neither works
 import CircleImage from "./CircleImage";
 import CircleWords from "./CircleWords";
 
