@@ -72,4 +72,4 @@ const Sidebar: React.FC<SidebarProps> = ({ title, bannerImage, sidebarItems, typ
 
 const BlockComponent = block<SidebarProps>(Sidebar);
 
-export default Sidebar;
+export default BlockComponent;
